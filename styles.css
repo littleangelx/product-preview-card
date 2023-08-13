@@ -14,6 +14,7 @@ body {
   height: 100vh;
   font-size: 14px;
   background-color: var(--cream);
+  padding: 0;
 }
 
 .container {
